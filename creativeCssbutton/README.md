@@ -1,10 +1,8 @@
-<h1 style="text-align: center; font-weight: bold;"> CREATIVE CSS BUTTON</h1> <br>
+<h1 style="text-align: center; font-weight: bold;"> Creative CSS Button Hover Effects</h1> <br>
 
 ## DEMO 📸 <br>
 
-![Alt text](https://github.com/Milenagms/emCSS/blob/master/imagens/CSS.gif)
+![Alt text](https://github.com/Milenagms/emCSS/blob/master/imagens/mouseparado.gif)
 
 ## Sobre:
-<br>
-
-O projeto tem algumas coisas bem interessantes que chamou minha atenção, como a borda brancados lados quando clica, as cores que relaciona aos nomes e as trocas que acontecem.
+No momento que o mouse passar pela área selecionada aparecerá outra frase.
