@@ -2,9 +2,8 @@
 
 ## DEMO 📸 <br>
 
-<div align="center" ><br>
-  ![Alt text](https://github.com/Milenagms/emCSS/blob/master/imagens/mouseparado.gif)
-</div>
+
+![Alt text](https://github.com/Milenagms/emCSS/blob/master/imagens/mouseparado.gif)
 
 ## Sobre:
 
