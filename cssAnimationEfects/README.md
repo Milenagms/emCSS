@@ -3,7 +3,7 @@
 ## DEMO 📸
 
 <div align="center" >
-  <img src="./imagens/mouseparado.gif" alt="demo-web" height="425">
+  <img src="./imagens/mouseparado.gif" alt="animaçãoCSS" height="425">
 </div>
 
 ## Sobre:
