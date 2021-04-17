@@ -1,9 +1,9 @@
 <h1 style="text-align: center; font-weight: bold;"> CSS animation Efects</h1>
 
-## DEMO 📸
+## DEMO 📸 <br>
 
-<div align="center" >
-  <img src="./imagens/mouseparado.gif" alt="demo-web" height="425">
+<div align="center" ><br>
+  ![Alt text]( https://github.com/Milenagms/emCSS/blob/master/imagens/mouseparado.gif)
 </div>
 
 ## Sobre:
