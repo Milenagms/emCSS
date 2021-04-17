@@ -1,4 +1,12 @@
- ### CSS NA PRÁTICA
+<h1 style="text-align: center; font-weight: bold;"> CSS animation Efects</h1>
 
-Olá, Bem-vindos.
-Nesse repositório serão pequenas animações e utilização do CSS. Para conhecer mais de cada um é só clicar em alguma pasta logo acima do seu interesse.
+## DEMO 📸
+
+<div align="center" >
+  <img src="./imagens/mouseparado.gif" alt="demo-web" height="425">
+</div>
+
+## Sobre:
+
+No momento que o mouse passar pela área selecionada aparecerá outra frase.
+
