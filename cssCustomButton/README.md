@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center; font-weight: bold;"> CREATIVE CSS BUTTON</h1> <br>
+<h1 style="text-align: center; font-weight: bold;"> CSS CUSTOM RADIO BUTTON </h1> <br>
 
 ## DEMO 📸 <br>
 
