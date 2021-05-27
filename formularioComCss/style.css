@@ -1,0 +1,44 @@
+
+body{
+    margin: 20px 500px;
+}
+form {
+    border: 2px solid rgb(46, 36, 36);
+    padding: .6rem;
+    border-radius: 0.4rem .4rem .4em;
+}
+
+textarea{
+    resize: none; /* Para remover a parte que ele altera o tamanho */
+    width: 100%;
+    border: none;
+    font-size: .8rem;
+    font-family: sans-serif;
+   
+}
+
+footer{
+    display: flex;/* coloca display flex na caixa principal para que todos os elementos dentro deles ficam um do lado do outro*/
+    align-items: center;
+    justify-content: space-between;
+}
+
+.an{
+    display:flex;
+    align-items: center;
+}
+
+.an span {
+    background: grey;
+    width: 8px;
+    height: 8px;
+    margin-right: .4rem ;
+}
+
+button{
+    height: 30px;
+    background: lightblue;
+    border: none;
+    border-radius: .4rem;
+    color: white;
+}
