@@ -57,8 +57,6 @@ label span::before{
   color: #030f11;
 }
 /*O box-shadow é uma propriedade do CSS, é utilizado para adicionar efeitos de sombra em volta de um elemento. Você pode especificar mais de um efeito, os separando com virgulas. Uma box-shadow é descrita pelo deslocamentos (offset) X e Y em relação ao elemento, desfoco e propagação do raio e cor. */
-
-
 label input:checked ~ span::before{
   content: "Active";
   color: #fff;
