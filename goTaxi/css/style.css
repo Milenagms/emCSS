@@ -8,11 +8,11 @@
 }
 section{
     width: 1000px;
-    height: 600px;
+    height: 500px;
     display: flex;
     background-color: #fff;
     border-radius: 8px;
-    margin-top: 90px; 
+    margin-top: 70px; 
     margin-left: auto;
     margin-right: auto;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.15);
@@ -22,31 +22,116 @@ section .imgBx{
     position: relative;
     width: 100%;
     height: 30%; 
-
 }
 
 .content{
     width: 475px;
-    margin-left: 25px;
-    margin-top: 25px;
     display: table;
     float: left;
     box-sizing: border-box;
 }
 
 .first-content{
-    padding: 100px  30px;
+    padding: 10%  23.5px;
     background-color:  #337ab7;
-    height: 600px;
+    height: 500px;
     margin-top: 0px;
     margin-left: 0px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    color: #fff;
+    box-sizing: border-box;
+
+}
+.second-content{
+    width: 525px;
+    padding: 12% 10%;
 }
 
 .logo{
     max-width: 350px;
+    margin: 0 36px;
 }
 
+.contentBx h2{
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 1.50px;
+    padding-bottom: 10px;
+}
 
+.contentBx p{
+    text-align: center;
+    padding-bottom: 3px;
+}
 
+.btn {
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 15px 30px;
+    cursor: pointer;
+    width: 170px;
+    align-self: center;
+    border: none;
+    margin-top: 1rem;
+    letter-spacing: 1.25px;
+}
 
-  
+.btn-primary {
+    background-color: transparent;
+    border: 2px solid #fff;
+    transition: background-color .5s;
+    margin: 7% 30% 0 30% ;
+
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: #0b0441;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form input {
+    height: 45px;
+    width: 100%;
+    border: none;
+    background-color: #d3d8da;
+}
+
+.label-input {
+    position: relative;
+    background-color: #d3d8da;
+    display: flex;
+    align-items: center;
+    margin: 8px;
+}
+
+.btn-second {
+    background-color: #0b0441;
+    border: 1px solid #0b0441;
+    transition: background-color .5s;
+    margin-top: 5%
+}
+
+.btn-second:hover {
+    background-color: #fff;
+    border: 2px solid #0b0441;
+    color: #0b0441;
+}
+
+.title-second{
+    position: relative;
+    color: #f9a635;
+    max-width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 3%;
+}
