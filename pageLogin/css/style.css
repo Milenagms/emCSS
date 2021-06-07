@@ -32,7 +32,7 @@ section .imgBx{
 }
 
 .first-content{
-    padding: 10%  23.5px;
+    padding: 15%  23.5px;
     background-color:  #337ab7;
     height: 500px;
     margin-top: 0px;
@@ -215,25 +215,60 @@ section .imgBx{
         margin-right: auto;
 
     }
+    .btn {
+        color: #fff;
+        font-size: 11px;
+        font-weight: bold;
+        text-transform: uppercase;
+        border-radius: 15px;
+        padding: 12px 26px;
+        cursor: pointer;
+        width: 150px;
+        align-self: center;
+        border: none;
+        margin-top: 1rem;
+        letter-spacing: 1.25px;
+    }
+
     .first-content{
         height: 20px;
         width: 100%;
-        padding: 0 10% 
+        padding: 4% 23% ;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
     }
 
     .second-content{
         width: 100%;
-        padding: 0;  
+        padding: 6% 10%;;  
     }
     .btn-primary {
         background-color: transparent;
         border: 2px solid #fff;
         transition: background-color .5s;
-        margin: 10% 30% 0 30% ;
+        margin: center;
     
     }
-  
+    .contentBx h2{
+        font-size: 24px;
+        padding-bottom: 0;
+    }
+    .second-p{
+        margin-bottom: 5%
+    }
+    
+    .contentBx p{
+        padding-bottom: 0%;
+    }
 
+    .logo{
+        max-width: 300px;
+        margin: 0 15%;
+    }
+    .contentBx p{
+        font-size: 14px;
+    }
+ 
 }
 
 
